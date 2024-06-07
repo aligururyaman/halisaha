@@ -37,7 +37,7 @@ export default function Home() {
   };
 
   const takimKur = () => {
-    setGeriSayim(1);
+    setGeriSayim(60);
   };
 
   useEffect(() => {
