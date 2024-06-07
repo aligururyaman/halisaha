@@ -189,7 +189,7 @@ export default function Home() {
       </div>
       {geriSayim !== null && (
         <div className="absolute inset-0 flex items-center justify-center bg-opacity-75">
-          <div className="text-[70rem] font-bold text-red-500">{geriSayim}</div>
+          <div className="text-[20rem] font-bold text-red-500">{geriSayim}</div>
         </div>
       )}
     </main>
